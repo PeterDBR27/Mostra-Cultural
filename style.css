@@ -1,1 +1,13 @@
-body::-webkit-scrollbar{width:12px}body::-webkit-scrollbar-track{background:#6E5C62}body::-webkit-scrollbar-thumb{background-color:#fff;border-radius:20px;border:3px #fff}
+body::-webkit-scrollbar {
+    width: 12px
+}
+
+body::-webkit-scrollbar-track {
+    background: #6E5C62
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #fff;
+    border-radius: 20px;
+    border: 3px #fff
+}
